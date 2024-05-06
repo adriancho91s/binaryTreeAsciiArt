@@ -1,4 +1,4 @@
-# ASCII Tree Printer
+# ASCII Tree Printer 🫣
 
 This C program is designed to create and manipulate binary search trees, and print them in a pretty, human-readable format using ASCII characters.
 
